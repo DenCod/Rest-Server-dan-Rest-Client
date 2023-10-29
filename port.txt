@@ -1,0 +1,2 @@
+1. Untuk Rest Server menggunakan port 8000
+2. untuk Rest Client menggunakan port 8001
